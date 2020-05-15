@@ -1,0 +1,2 @@
+@Python gsearch.py %*
+@pause

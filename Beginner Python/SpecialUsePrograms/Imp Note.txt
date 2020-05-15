@@ -1,0 +1,8 @@
+In My Pc 
+#note that the programs and there bat files gsearch-gsearch , mapit-webBrowserModule.py , pdf_merger-pdf_merger_copy.py are kept in Scripts foler in Python37 and this folder is added to environment path
+please enter win+r keys and then
+
+1. press mapit location_name   and you will automatically open Gmap with location_name
+2. press gsearch any_thing_to_search and it will search automatically with whatever given on google.com hen 
+3. if you want to merge two pdf's then paste it on desktop and then please enter win+r keys type pdf_merger filenameshouldnotcontainspaces.pdf filename2notcontainingspaces.pdf
+you will get combinedPDFs.pdf on Desktop

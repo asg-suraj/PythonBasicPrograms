@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "S:\Acadmecis College\Programming\Beginner Python\DebuggingAndErrorSolving\errorfile.py", line 5, in <module>
+    raise Exception('This is an Exception Example error message generated due to errorfile.py')
+Exception: This is an Exception Example error message
+Traceback (most recent call last):
+  File "S:\Acadmecis College\Programming\Beginner Python\DebuggingAndErrorSolving\errorfile.py", line 5, in <module>
+    raise Exception('This is an Exception Example error message generated due to errorfile.py')
+Exception: This is an Exception Example error message generated due to errorfile.py
+Traceback (most recent call last):
+  File "S:\Acadmecis College\Programming\Beginner Python\DebuggingAndErrorSolving\errorfile.py", line 5, in <module>
+    raise Exception('This is an Exception Example error message generated due to errorfile.py')
+Exception: This is an Exception Example error message generated due to errorfile.py
+Traceback (most recent call last):
+  File "S:\Acadmecis College\Programming\Beginner Python\DebuggingAndErrorSolving\errorfile.py", line 5, in <module>
+    raise Exception('This is an Exception Example error message generated due to errorfile.py')
+Exception: This is an Exception Example error message generated due to errorfile.py
+Traceback (most recent call last):
+  File "S:\Acadmecis College\Programming\Beginner Python\DebuggingAndErrorSolving\errorfile.py", line 5, in <module>
+    raise Exception('This is an Exception Example error message generated due to errorfile.py')
+Exception: This is an Exception Example error message generated due to errorfile.py

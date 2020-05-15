@@ -1,0 +1,2 @@
+@Python StringMethods.py %*
+@pause
