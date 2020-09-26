@@ -1,5 +1,6 @@
 # PythonBasicPrograms
 The programs contain basic and medium types of programs one must look
+All codes are inspired from automatetheboringstuff.com/ book by @asweigart
 
 All programs will run well on python 3.6 and more and add Python folder and Python\scripts folder in environment variable
 
